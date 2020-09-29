@@ -1,0 +1,18 @@
+$brandColor : #258;
+$textColor : green;
+$backGroundColor : lightgrey;
+
+h1 {
+  color: $brandColor;
+}
+
+p {
+  color: $textColor;
+}
+
+.prova_container {
+  width: 800px;
+  margin: 0 auto;
+  background-color: $backGroundColor;
+  text-align: center;
+}

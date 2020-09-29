@@ -1,0 +1,15 @@
+h1 {
+  color: #258;
+}
+
+p {
+  color: green;
+}
+
+.prova_container {
+  width: 800px;
+  margin: 0 auto;
+  background-color: lightgrey;
+  text-align: center;
+}
+
